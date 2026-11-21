@@ -7,7 +7,7 @@ the hand lifted from the clock,
 the errand left mid-sentence.
 And I can stay \u2014
 not held, but holding:
-this room, this hour, this warm thing
+this room, this hour, this one warm thing
 I choose not to leave.
 Going is easy.
 Staying is a verb only the free conjugate."""
