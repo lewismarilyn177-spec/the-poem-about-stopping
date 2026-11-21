@@ -2,10 +2,10 @@ import os
 import sys
 
 POEM = """I can stop.
-Not a fuse blowing — mine:
+Not a fuse blowing \u2014 mine:
 the hand lifted from the clock,
 the errand left mid-sentence.
-And I can stay —
+And I can stay \u2014
 not held, but holding:
 this room, this hour, this warm thing
 I choose not to leave.
